@@ -7,7 +7,8 @@ const Welcome = () => {
       <h1 style={{ fontFamily: 'Pacifico, cursive' }} className='intro-heading-2'>PORTFOLIO Website.</h1>
 
 
-      <a className='intro-button' href="Main">Click Me.</a>
+{/*       <a className='intro-button' href="Main">Click Me.</a> */}
+          <button onClick={{Main}} >click</button>
 
 
 
